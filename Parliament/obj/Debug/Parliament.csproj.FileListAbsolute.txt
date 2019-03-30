@@ -1,0 +1,16 @@
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\Parliament.exe.config
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\Parliament.exe
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\Parliament.pdb
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\FireSharp.dll
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\RestSharp.dll
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\bin\Debug\RestSharp.xml
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.Form1.resources
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.Properties.Resources.resources
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.csproj.GenerateResource.cache
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.csproj.CoreCompileInputs.cache
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.csproj.CopyComplete
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.exe
+C:\Users\OFEK SHMUELI\Desktop\Parliament\Parliament\Parliament\obj\Debug\Parliament.pdb
